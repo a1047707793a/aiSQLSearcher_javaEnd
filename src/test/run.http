@@ -1,0 +1,6 @@
+POST http://localhost:8080/AiSQLSearcher/run
+Content-Type: application/json
+
+{
+  "question": "123"
+}
