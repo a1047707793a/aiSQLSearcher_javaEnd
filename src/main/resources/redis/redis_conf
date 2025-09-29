@@ -1,0 +1,6 @@
+user:lzw
+pw:1047707793
+host:127.0.0.1:6380
+db:0
+maxmemory:1mb
+maxmemory-policy:allkeys-lru
